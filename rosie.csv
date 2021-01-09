@@ -1,0 +1,17 @@
+Genre,Progress,Score,Mastery,Category
+Early-birding,1,6.0,0.2,Health
+Sleeping,2.5,8.0,0.3,Health
+Legoing,6.5,9.2,0.8,Game
+Creativity,6,9,0.7,Personality
+Curiosity,7,8.5,0.65,Personality
+Temper,2,7.5,0.25,Personality
+Chinese,6,9,0.7,Extracurricular
+English,4,6,0.2,Academic
+Spanish,2,6.5,0.1,Extracurricular
+Math,3,7.5,0.3,Academic
+Eating,6,5.5,0.6,Health
+Pooping,7,8,0.85,Health
+Chinese Reading,6.5,8.5,0.7,Extracurricular
+English Reading,4.5,5.5,0.5,Academic
+Drawing,4,8,0.6,Extracurricular
+Hand-writing,6,8.5,0.7,Academic
